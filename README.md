@@ -1,3 +1,6 @@
+
+
+--- 
 ### Main Tech Stacks
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="24">
@@ -15,3 +18,8 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="24">
     <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka" height="24">
 </div>
+
+--- 
+### Experience
+- BallVillage 데이터 파이프라인 구축 및 시각화 (23.06 ~ 진행중)
+- BOAZ 빅데이터 연합 동아리 활동 (24.07 ~25.07)
